@@ -1,0 +1,28 @@
+# PyCharm files
+.idea/
+
+# Virtual environment
+venv/
+
+# PyCharm's python interpreter settings
+.python-version
+
+# PyCharm's python interpreter settings
+.python-version
+
+# exclude log files and other files
+*.log
+*.swp
+*.swo
+
+# exclude __pycache__ files
+__pycache__/
+
+# exclude .DS_Store files
+.DS_Store
+
+# exclude .pyc files
+*.pyc
+
+# Exclude .egg-info
+*.egg-info
